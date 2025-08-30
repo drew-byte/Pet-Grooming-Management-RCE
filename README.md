@@ -1,4 +1,4 @@
-# Proof of Concept – Unrestricted File Upload in Pet Grooming ERP
+# Proof of Concept – Unrestricted File Upload in Pet Grooming Management System (RCE)
 ### Summary
 
 The Pet Grooming ERP application contains an Unrestricted File Upload vulnerability in the admin/profile.php module.
