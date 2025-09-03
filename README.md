@@ -4,7 +4,7 @@
 The Pet Grooming ERP application contains an Unrestricted File Upload vulnerability in the admin/profile.php module.
 An authenticated attacker can upload arbitrary files, including PHP code, instead of restricted image files. This results in Remote Code Execution (RCE) on the hosting server.
 
-*Source Code:* [Pet Grooming Management v.1](https://www.sourcecodester.com/php/18340/pet-grooming-management-software-download.html)
+*Product:* [Pet Grooming Management v.1](https://www.sourcecodester.com/php/18340/pet-grooming-management-software-download.html)
 
 **Evidence:**
 ![](./evidence1.png)
