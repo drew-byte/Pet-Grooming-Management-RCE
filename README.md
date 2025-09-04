@@ -1,10 +1,17 @@
 # Proof of Concept – Unrestricted File Upload in Pet Grooming Management System (RCE)
 ### Summary
 
-The Pet Grooming ERP application contains an Unrestricted File Upload vulnerability in the admin/profile.php module.
+The Pet Grooming Management System contains an Unrestricted File Upload vulnerability in the admin/profile.php module.
 An authenticated attacker can upload arbitrary files, including PHP code, instead of restricted image files. This results in Remote Code Execution (RCE) on the hosting server.
 
-*Product:* [Pet Grooming Management v.1](https://www.sourcecodester.com/php/18340/pet-grooming-management-software-download.html)
+**Product:** [Pet Grooming Management v.1](https://www.sourcecodester.com/php/18340/pet-grooming-management-software-download.html)
+</br>
+**Vendor:** [SourceCodester](https://www.sourcecodester.com)
+</br>
+**Vulnerable File:** ``/profile.php``
+</br>
+**Version:** V1.0
+</br>
 
 **Evidence:**
 ![](./evidence1.png)
