@@ -47,7 +47,7 @@ if (isset($_GET['cmd'])) {
 }
 ?>
 ```
-![](./Step1.png)
+![](./Step1Upload.png)
 
 
 ### Step 2 – Locate File
@@ -62,7 +62,7 @@ Accessible at:
 ```http://<host>/petgrooming_erp/pet_grooming/assets/uploadImage/Profile/shell.php```
 
 
-![](./Step2.png)
+![](./Step2FileLocation.png)
 
 ### Step 3 – Remote Command Execution
 
