@@ -8,7 +8,7 @@ An authenticated attacker can upload arbitrary files, including PHP code, instea
 </br>
 **Vendor:** [SourceCodester](https://www.sourcecodester.com)
 </br>
-**Vulnerable File:** ``/profile.php``
+**Vulnerable File:** ``admin/profile.php``
 </br>
 **Version:** V1.0
 </br>
